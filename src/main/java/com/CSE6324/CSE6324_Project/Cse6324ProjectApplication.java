@@ -8,6 +8,7 @@ public class Cse6324ProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Cse6324ProjectApplication.class, args);
+		//test
 	}
 
 }
